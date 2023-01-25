@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "FinancialAppBackEnd",
+    name: "BackEnd",
     platforms: [
        .macOS(.v12)
     ],
